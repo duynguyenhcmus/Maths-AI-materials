@@ -107,6 +107,6 @@ Neurips 2017 Tutorials:
 - [Fairness in Machine Learning](https://vimeo.com/248490141)
 
 CVPR 2017 Tutorials:
-- [Mathematics of Deep Learning]()[Part 1](https://www.youtube.com/watch?v=Mdp9uC3gXUU)[Part 2](https://www.youtube.com/watch?v=xdA-uhJ6T3U)
+- [Mathematics of Deep Learning] [(Part 1)](https://www.youtube.com/watch?v=Mdp9uC3gXUU) [(Part 2)](https://www.youtube.com/watch?v=xdA-uhJ6T3U)
 - 
   
