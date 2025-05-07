@@ -89,9 +89,10 @@ Since there are enormous amount of video lectures available, I will choose only 
 - [Statistical Methods in Computational Biology](https://www.youtube.com/playlist?list=PLAYxx7zX5F1PieIIeSFc7asuKWRYm6nGy)
 - [Large Sample Theory](https://www.youtube.com/playlist?list=PLAYxx7zX5F1P5GG-9U8eJPL_MIsl1_8Zh)
 - [Robust Statistics](https://www.stat.berkeley.edu/~jsteinhardt/stat240/index.html)
-
+- [Parallel Computing and Scientific Machine Learning](https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa)
+  
 *** To be continued
-### Tutorials, Seminars, Talks, Topics and Workshop
+### Conference Tutorials
 
 ICML 2017 Tutorials:
 - [Deep Reinforcement Learning, Decision Making, and Control](https://vimeo.com/240428644)
@@ -107,6 +108,44 @@ Neurips 2017 Tutorials:
 - [Fairness in Machine Learning](https://vimeo.com/248490141)
 
 CVPR 2017 Tutorials:
-- [Mathematics of Deep Learning] [(Part 1)](https://www.youtube.com/watch?v=Mdp9uC3gXUU) [(Part 2)](https://www.youtube.com/watch?v=xdA-uhJ6T3U)
-- 
+- Mathematics of Deep Learning [(Part 1)](https://www.youtube.com/watch?v=Mdp9uC3gXUU) [(Part 2)](https://www.youtube.com/watch?v=xdA-uhJ6T3U)
+- Deep Learning for Objects and Scenes [(Part 1)](https://www.youtube.com/watch?v=jHv37mKAhV4) [(Part 2)](https://www.youtube.com/watch?v=pK6XAk95kUY)
+- [Local Feature Extraction and Learning for Computer Vision](https://www.youtube.com/watch?v=dlqn-wPvjxg)
+- [3D Deep Learning](https://www.youtube.com/watch?v=8CenT_4HWyY)
+- [Theory and Application of Generative Adversarial Network](https://www.youtube.com/watch?v=KudkR-fFu_8)
+- [Zero-Shot Learning for Computer Vision](https://www.youtube.com/watch?v=dE4nU5OaQqA)
+- [Dealing with Reality: Low-Quality Visual Data Processing and Analytics](https://www.youtube.com/watch?v=KOk4IHRavrQ)
+- Large-Scale Visual Place Recognition and Image-Based Localization [Part 1](https://www.youtube.com/watch?v=GDMLjzbEth8) [Part 2](https://www.youtube.com/watch?v=947W99gAvQ8)
+
+- [ICCV 2017 Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucBGj2Hmv1e7CP9U82kHWVOT)
+ICML 2018 Tutorials:
+Neurips 2018 Tutorials:
+- [CVPR 2018 Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucD54Ym5XKGqTv9xNsrOX0aS)
+- [CVPR 2022 Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucBWovIMSBLShNbAqKEQluOS)
+- [WACV 2021 Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucCXNDfPC5kxVFK8LHcXBgGv)
+ICML 2019 Tutorials:
+-
+
+Neurips 2019 Tutorials:
+- [Deep Learning with Bayesian Principles](https://www.youtube.com/watch?v=2wFb46Q8kmA)
+- [Imitation Learning and its Application to Natural Language Generation](https://slideslive.com/38922816/imitation-learning-and-its-application-to-natural-language-generation)
+- [Human Behavior Modeling with Machine Learning: Opportunities and Challenges](https://slideslive.com/38922868/human-behavior-modeling-with-machine-learning-opportunities-and-challenges)
+
+### Summer School:
+
+### Workshop:
+- [Deep Learning Theory Workshop and Summer School](https://www.youtube.com/playlist?list=PLgKuh-lKre10YK4RZ6mMylo3ftx_JJYYM)
+- [Workshop on Real Analysis in Testing, Learning](https://www.youtube.com/playlist?list=PLgKuh-lKre10VULBF-l0qm-ZSJRyJKK80)
+- [Real Analysis Boot Camp](https://www.youtube.com/playlist?list=PLgKuh-lKre11XOiDQrB-c09oem6ftoGzZ)
+- [Symposium On Visions of The Theory of Computing](https://www.youtube.com/playlist?list=PLgKuh-lKre13o3mgqMBJcJzZkWp-H9_o5)
+- [Workshop on Geometric Complexity Theory](https://www.youtube.com/playlist?list=PLgKuh-lKre11VVfPSKsG0U-7VP5Gn7gJQ)
+- [Foundations of Machine Learning Boot Camp](https://www.youtube.com/playlist?list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD)
+- [Representation Learning Workshop](https://www.youtube.com/playlist?list=PLgKuh-lKre13UNV4ztsWUXciUZ7x_ZDHz)
+- [Theory of Reinforcement Learning Boot Camp](https://www.youtube.com/playlist?list=PLgKuh-lKre11De4uxkLE8a88n0InyJxa-)
+- [Statistical Physics of Machine Learning 2020](https://www.youtube.com/playlist?list=PL04QVxpjcnjgzMr9ehyZUSkwu0Wr0cF_N)
+- [Graduate topics in deep learning theory](https://www.youtube.com/playlist?list=PL0NRmB0fnLJSEXFQHGF0q5JcedxTqK4AJ)
+- [First Symposium on AIT and ML](https://www.youtube.com/playlist?list=PLolRwrHhkLDSIRwDHYHR1LeITc2ZlXqTj)
+
+- To be continue
+
   
