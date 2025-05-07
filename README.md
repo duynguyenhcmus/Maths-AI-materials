@@ -139,18 +139,9 @@ Neurips 2019 Tutorials:
 
 ### Summer School:
 
-### Workshop:
-- [Deep Learning Theory Workshop and Summer School](https://www.youtube.com/playlist?list=PLgKuh-lKre10YK4RZ6mMylo3ftx_JJYYM)
-- [Workshop on Real Analysis in Testing, Learning](https://www.youtube.com/playlist?list=PLgKuh-lKre10VULBF-l0qm-ZSJRyJKK80)
-- [Real Analysis Boot Camp](https://www.youtube.com/playlist?list=PLgKuh-lKre11XOiDQrB-c09oem6ftoGzZ)
-- [Symposium On Visions of The Theory of Computing](https://www.youtube.com/playlist?list=PLgKuh-lKre13o3mgqMBJcJzZkWp-H9_o5)
-- [Workshop on Geometric Complexity Theory](https://www.youtube.com/playlist?list=PLgKuh-lKre11VVfPSKsG0U-7VP5Gn7gJQ)
-- [Foundations of Machine Learning Boot Camp](https://www.youtube.com/playlist?list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD)
-- [Representation Learning Workshop](https://www.youtube.com/playlist?list=PLgKuh-lKre13UNV4ztsWUXciUZ7x_ZDHz)
-- [Theory of Reinforcement Learning Boot Camp](https://www.youtube.com/playlist?list=PLgKuh-lKre11De4uxkLE8a88n0InyJxa-)
-- [Statistical Physics of Machine Learning 2020](https://www.youtube.com/playlist?list=PL04QVxpjcnjgzMr9ehyZUSkwu0Wr0cF_N)
-- [Graduate topics in deep learning theory](https://www.youtube.com/playlist?list=PL0NRmB0fnLJSEXFQHGF0q5JcedxTqK4AJ)
-- [First Symposium on AIT and ML](https://www.youtube.com/playlist?list=PLolRwrHhkLDSIRwDHYHR1LeITc2ZlXqTj)
+
+### Youtube Channels:
+- 
 
 - To be continue
 
