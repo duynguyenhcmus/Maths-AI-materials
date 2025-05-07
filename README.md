@@ -117,12 +117,12 @@ CVPR 2017 Tutorials:
 - [Dealing with Reality: Low-Quality Visual Data Processing and Analytics](https://www.youtube.com/watch?v=KOk4IHRavrQ)
 - Large-Scale Visual Place Recognition and Image-Based Localization [Part 1](https://www.youtube.com/watch?v=GDMLjzbEth8) [Part 2](https://www.youtube.com/watch?v=947W99gAvQ8)
 
-- [ICCV 2017 Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucBGj2Hmv1e7CP9U82kHWVOT)
+[ICCV 2017 Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucBGj2Hmv1e7CP9U82kHWVOT)
 ICML 2018 Tutorials:
 Neurips 2018 Tutorials:
-- [CVPR 2018 Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucD54Ym5XKGqTv9xNsrOX0aS)
-- [CVPR 2022 Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucBWovIMSBLShNbAqKEQluOS)
-- [WACV 2021 Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucCXNDfPC5kxVFK8LHcXBgGv)
+[CVPR 2018 Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucD54Ym5XKGqTv9xNsrOX0aS)
+[CVPR 2022 Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucBWovIMSBLShNbAqKEQluOS)
+[WACV 2021 Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucCXNDfPC5kxVFK8LHcXBgGv)
 ICML 2019 Tutorials:
 -
 
