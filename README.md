@@ -90,7 +90,10 @@ Since there are enormous amount of video lectures available, I will choose only 
 - [Large Sample Theory](https://www.youtube.com/playlist?list=PLAYxx7zX5F1P5GG-9U8eJPL_MIsl1_8Zh)
 - [Robust Statistics](https://www.stat.berkeley.edu/~jsteinhardt/stat240/index.html)
 - [Parallel Computing and Scientific Machine Learning](https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa)
-  
+- [Deep Learning in Scientific Computing](https://www.youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm)
+- [AI in the Sciences and Engineering](https://www.youtube.com/playlist?list=PLJkYEExhe7rYFkBIB2U5pf_RWzYnFLj7r)
+- [Optimal Control](https://www.youtube.com/playlist?list=PLZnJoM76RM6Jv4f7E7RnzW4rijTUTPI4u)
+- [Robot Dynamics](https://www.youtube.com/playlist?list=PLZnJoM76RM6ItAfZIxJYNKdaR_BobleLY)
 *** To be continued
 ### Conference Tutorials
 
@@ -140,9 +143,60 @@ Neurips 2019 Tutorials:
 ### Summer School:
 
 
-### Youtube Channels:
+### Wonderful Youtube Channels:
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [A Probability Space](https://www.youtube.com/@AProbabilitySpace)
+- [Abdul Bari](https://www.youtube.com/@abdul_bari)
+- [African Institute for Mathematical Sciences (South Africa)](https://www.youtube.com/@AimsAcZa/videos)
+- [Aleksa Gordić - The AI Epiphany](https://www.youtube.com/@TheAIEpiphany)
+- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+- [Articulated Robotics](https://www.youtube.com/@ArticulatedRobotics/videos)
+- [Carnegie Mellon University Deep Learning](https://www.youtube.com/@carnegiemellonuniversityde4339)
+- [Centre de recherches mathématiques - CRM](https://www.youtube.com/@centrederecherchesmathemat5856/videos)
+- [Centre International de Rencontres Mathématiques](https://www.youtube.com/@Cirm-mathFr)
+- [Clay Mathematics Institute](https://www.youtube.com/@claymathematicsinstitute635)
+- [CMU Database Group](https://www.youtube.com/@CMUDatabaseGroup)
+- [CMU Robotics Institute](https://www.youtube.com/@cmurobotics/playlists)
+- [Computer Science Lessons](https://www.youtube.com/@ComputerScienceLessons/videos)
+- [Computer Science and Engineering](https://www.youtube.com/@computerscienceandengineer429/playlists)
+- [ComputerVisionFoundation Videos](https://www.youtube.com/@ComputerVisionFoundation)
+- [CS50](https://www.youtube.com/@cs50/videos)
+- [CRUNCH Group: Home of Math + Machine Learning + X](https://www.youtube.com/@CrunchGroup)
+- [Erwin Schrödinger International Institute for Mathematics and Physics (ESI)](https://www.youtube.com/@ESIVienna)
+- [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
+- [Google DeepMind](https://www.youtube.com/@googledeepmind)
+- [Google for Developers](https://www.youtube.com/@GoogleDevelopers/videos)
+- [Google TechTalks](https://www.youtube.com/@GoogleTechTalks/playlists)
+- [Graduate Mathematics](https://www.youtube.com/@GraduateMathematics/playlists)
+- [Harvard CMSA](https://www.youtube.com/@harvardcmsa7486/playlists)
+- [Harvard Data Science Initiative](https://www.youtube.com/@harvarddatascienceinitiati3320/videos)
+- [Harvard Mathematics Department](https://www.youtube.com/@HarvardMath)
+- [HarveyMuddCollegeEDU](https://www.youtube.com/@HarveyMuddCollegeEDU/videos)
+- [HuggingFace](https://www.youtube.com/@HuggingFace/videos)
+- [IAS | PCMI Park City Mathematics Institute](https://www.youtube.com/@iaspcmi/videos)
+- [IAMP Seminars](https://www.youtube.com/@iamp_seminars)
+- [IBM Technology](https://www.youtube.com/@IBMTechnology/videos)
+- [ICTP Mathematics](https://www.youtube.com/@ictpmathematics6835)
+- [ICTP Postgraduate Diploma Programme](https://www.youtube.com/@ictppostgraduatediplomapro1224)
+- [ICTP Science, Technology and Innovation](https://www.youtube.com/@ictpsciencetechnologyandin4327)
+- [ICTP-SAIFR](https://www.youtube.com/@SAIFRResearch)
+- [IIT Gandhinagar](https://www.youtube.com/@IITGNOfficial)
+- [IIT KANPUR-NPTEL](https://www.youtube.com/@IITKanpurNPTEL)
+- [IIT Madras - B.S. Degree Programme](https://www.youtube.com/@IITMadrasBSDegreeProgramme)
+- [IIT Roorkee July 2018](https://www.youtube.com/@IITRoorkeeJuly)
+- [Institut d'Astrophysique de Paris](https://www.youtube.com/@InstitutdAstrophysiquedeParis)
+- [Inst. for Quantitative & Computational Biosciences](https://www.youtube.com/@inst.forquantitativecomput8733)
+- [Institut des Hautes Etudes Scientifiques (IHES)](https://www.youtube.com/@IhesFr)
+- [Institut Fourier](https://www.youtube.com/@institutfourier)
+- [Institut Henri Poincaré](https://www.youtube.com/@InstitutHenriPoincaré)
+- [Institut Jean Le Rond d'Alembert](https://www.youtube.com/@DAlembert-SU-CNRS)
+- [Institute for Advanced Study](https://www.youtube.com/@videosfromIAS)
+- [Institute for Geometry and Physics](https://www.youtube.com/@InstituteforGeometryandPhysics)
+- [Institute for Mathematical Sciences](https://www.youtube.com/@instituteformathematicalsc1747)
+- [Institute for Pure & Applied Mathematics (IPAM)](https://www.youtube.com/@IPAMUCLA/playlists)
+- [Institute for Quantum Computing](https://www.youtube.com/@QuantumIQC)
+- [Institute of Physics](https://www.youtube.com/@InstituteofPhysics)
+- [Instituto de Matemática Pura e Aplicada](https://www.youtube.com/@impabr)
+- [Int'l Centre for Theoretical Physics](https://www.youtube.com/@ICTPchannel)
+- [International Centre for Theoretical Sciences](https://www.youtube.com/@ICTStalks)
 - 
-
-- To be continue
-
-  
