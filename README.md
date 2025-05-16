@@ -94,7 +94,12 @@ Since there are enormous amount of video lectures available, I will choose only 
 - [AI in the Sciences and Engineering](https://www.youtube.com/playlist?list=PLJkYEExhe7rYFkBIB2U5pf_RWzYnFLj7r)
 - [Optimal Control](https://www.youtube.com/playlist?list=PLZnJoM76RM6Jv4f7E7RnzW4rijTUTPI4u)
 - [Robot Dynamics](https://www.youtube.com/playlist?list=PLZnJoM76RM6ItAfZIxJYNKdaR_BobleLY)
-*** To be continued
+- [Advanced Topics in the theory of Machine Learning](https://boazbk.github.io/mltheoryseminar/cs229br.html)
+- [Advanced Topics in Machine Learning](https://1five9.github.io)
+- [Modern Computer Vision](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)
+- 
+*** To be continued and reorganize
+  
 ### Conference Tutorials
 
 ICML 2017 Tutorials:
