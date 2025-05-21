@@ -128,7 +128,12 @@ CVPR 2017 Tutorials:
 [ICCV 2017 Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucBGj2Hmv1e7CP9U82kHWVOT)
 
 ICML 2018 Tutorials:
-
+- [Imitation Learning](https://www.youtube.com/watch?v=bc7Sthw0B5Q)
+- [Machine Learning in Automated Mechanism Design for Pricing and Auctions](https://www.youtube.com/watch?v=DQAMTsxlHTo)
+- [Understanding your Neighbors: Practical Perspectives From Modern Analysis](https://www.youtube.com/watch?v=i2bt4vt908g)
+- [Toward Theoretical Understanding of Deep Learning](https://www.youtube.com/watch?v=KDRN-FyyqK0&t=397s)
+- [Optimization Perspectives on Learning to Control](https://www.youtube.com/watch?v=hYw_qhLUE0o)
+- [Variational Bayes and Beyond: Bayesian Inference for Big Data](https://www.youtube.com/watch?v=DYRK0-_K2UU)
 Neurips 2018 Tutorials:
 
 [CVPR 2018 Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucD54Ym5XKGqTv9xNsrOX0aS)
@@ -146,7 +151,15 @@ Neurips 2019 Tutorials:
 - [Human Behavior Modeling with Machine Learning: Opportunities and Challenges](https://slideslive.com/38922868/human-behavior-modeling-with-machine-learning-opportunities-and-challenges)
 
 ### Summer School:
-
+- [Machine Learning Summer School 2011](https://www.youtube.com/playlist?list=PLm6o6DdfFrNvwnSMlNnDKhqYLQGwhJTKY)
+- [Machine Learning Summer School 2012](https://www.youtube.com/playlist?list=PL7778683FADFCF613)
+- [Machine Learning Summer School 2013](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E)
+- [Machine Learning Summer School 2014](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQCIYxE3ycGLXHMjK3XV7Iz)
+- [Machine Learning Summer School 2015](https://www.youtube.com/playlist?list=PLiFmGG7h-xufN5FX1MuAMMUD-tsbx-RYS)
+- [Machine Learning Summer School 2016](https://www.youtube.com/playlist?list=PLS-OHsj5EUplgvRSvEXe0M5cTe1HGayqs)
+- [Deep Learning Summer School 2016](https://www.youtube.com/playlist?list=PL5bqIc6XopCbb-FvnHmD1neVlQKwGzQyR)
+- [Machine Learning Summer School 2017](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9)
+- 
 
 ### Wonderful Youtube Channels:
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
