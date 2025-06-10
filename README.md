@@ -5,19 +5,26 @@ Since there are enormous amount of video lectures available, I will choose only 
 
 ### Lectures
 - [Computational Thinking - MIT](https://www.youtube.com/playlist?list=PLP8iPy9hna6T56GkMHEdSrjCCheNuEwI0)
-- [Introduction to CS and Programming Using Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB)
-- [Introduction to Computer Science](https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN)
-- [Computer Science Theory](https://www.youtube.com/playlist?list=PLSpnclqYnfQ7mQeJnjV1PU5n6kulukeuq)
+- [Introduction to Computers](https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN)
+- [Mathematics for Computer Science](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
+- [Computer Science: Algorithms, Theory and Machines - Coursera](https://www.coursera.org/learn/cs-algorithms-theory-machines)
 - [Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
 - [Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf)
 - [A second course in Algorithms](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc)
-- [Algorithms for Big Data](https://courses.grainger.illinois.edu/cs498abd/fa2020/schedule.html)
 - [Operating Systems](https://www.youtube.com/playlist?list=PLacuG5pysFbB2_z9EkSfQIjq3yNzy8igs)
 - [Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)
 - [Advanced Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0)
-- [Linear Algebra](https://www.youtube.com/playlist?list=PL54Pt_mZzBqinpMAO6-o1vEzZzzPKx57c)
+- [Computer Architecture](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-LfDdGgWyLcTSqzm6a26wD)
+- [Digital Design and Computer Architecture](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9Eo29LMgKVcaydS7V1zZW3)
+- [Linear Algebra - MIT](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+- [Linear Algebra - UCLA - More Theoretical](https://www.youtube.com/playlist?list=PL54Pt_mZzBqinpMAO6-o1vEzZzzPKx57c)
 - [Harvard Applied Maths](https://www.youtube.com/playlist?list=PL43IQ71lgJytIqhiJ6v5lNswFKeQ9952K)
+- [Computational Thinking - MIT](https://www.youtube.com/playlist?list=PLP8iPy9hna6T56GkMHEdSrjCCheNuEwI0)
+- [Introduction to CS and Programming Using Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB)
+- [Introduction to Computer Science](https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN)
+- [Computer Science Theory](https://www.youtube.com/playlist?list=PLSpnclqYnfQ7mQeJnjV1PU5n6kulukeuq)
+- [Algorithms for Big Data](https://courses.grainger.illinois.edu/cs498abd/fa2020/schedule.html)
 - [Artificial Intelligence](https://www.youtube.com/playlist?list=PLp8QV47qJEg7WWVg_5eOECzVPpy23UjJz)
 - [Introduction to Machine Learning](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID="d5bf275d-ff88-4bf6-a865-b065010f55c2"&view=0&page=0&maxResults=50)
 - [Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)
@@ -102,12 +109,23 @@ Since there are enormous amount of video lectures available, I will choose only 
   
 ### Conference Tutorials
 
+### ICML
 ICML 2017 Tutorials:
 - [Deep Reinforcement Learning, Decision Making, and Control](https://vimeo.com/240428644)
 - [Robustness Meets Algorithms (and Vice-Versa)](https://www.youtube.com/watch?v=5KLhaAqIHpY)
 - [Real World Interactive Learning](https://vimeo.com/240429210)
 - [Recent Advances in Stochastic Convex and Non-Convex Optimization](https://www.youtube.com/watch?v=jPjhiaeYruQ)
 
+ICML 2018 Tutorials:
+- [Imitation Learning](https://www.youtube.com/watch?v=bc7Sthw0B5Q)
+- [Machine Learning in Automated Mechanism Design for Pricing and Auctions](https://www.youtube.com/watch?v=DQAMTsxlHTo)
+- [Understanding your Neighbors: Practical Perspectives From Modern Analysis](https://www.youtube.com/watch?v=i2bt4vt908g)
+- [Toward Theoretical Understanding of Deep Learning](https://www.youtube.com/watch?v=KDRN-FyyqK0&t=397s)
+- [Optimization Perspectives on Learning to Control](https://www.youtube.com/watch?v=hYw_qhLUE0o)
+- [Variational Bayes and Beyond: Bayesian Inference for Big Data](https://www.youtube.com/watch?v=DYRK0-_K2UU)
+
+
+### Neurips
 Neurips 2017 Tutorials:
 - [A Primer on Optimal Transport](https://vimeo.com/248504509)
 - [Reinforcement Learning with People](https://www.youtube.com/watch?v=TqT9nIx27Eg)
@@ -115,6 +133,8 @@ Neurips 2017 Tutorials:
 - [Deep Probabilistic Modelling with Gaussian Processes](https://www.youtube.com/watch?v=RAiPlfohjJo)
 - [Fairness in Machine Learning](https://vimeo.com/248490141)
 
+
+### CVPR
 CVPR 2017 Tutorials:
 - Mathematics of Deep Learning [(Part 1)](https://www.youtube.com/watch?v=Mdp9uC3gXUU) [(Part 2)](https://www.youtube.com/watch?v=xdA-uhJ6T3U)
 - Deep Learning for Objects and Scenes [(Part 1)](https://www.youtube.com/watch?v=jHv37mKAhV4) [(Part 2)](https://www.youtube.com/watch?v=pK6XAk95kUY)
@@ -127,13 +147,6 @@ CVPR 2017 Tutorials:
 
 [ICCV 2017 Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucBGj2Hmv1e7CP9U82kHWVOT)
 
-ICML 2018 Tutorials:
-- [Imitation Learning](https://www.youtube.com/watch?v=bc7Sthw0B5Q)
-- [Machine Learning in Automated Mechanism Design for Pricing and Auctions](https://www.youtube.com/watch?v=DQAMTsxlHTo)
-- [Understanding your Neighbors: Practical Perspectives From Modern Analysis](https://www.youtube.com/watch?v=i2bt4vt908g)
-- [Toward Theoretical Understanding of Deep Learning](https://www.youtube.com/watch?v=KDRN-FyyqK0&t=397s)
-- [Optimization Perspectives on Learning to Control](https://www.youtube.com/watch?v=hYw_qhLUE0o)
-- [Variational Bayes and Beyond: Bayesian Inference for Big Data](https://www.youtube.com/watch?v=DYRK0-_K2UU)
 Neurips 2018 Tutorials:
 
 [CVPR 2018 Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucD54Ym5XKGqTv9xNsrOX0aS)
@@ -159,62 +172,4 @@ Neurips 2019 Tutorials:
 - [Machine Learning Summer School 2016](https://www.youtube.com/playlist?list=PLS-OHsj5EUplgvRSvEXe0M5cTe1HGayqs)
 - [Deep Learning Summer School 2016](https://www.youtube.com/playlist?list=PL5bqIc6XopCbb-FvnHmD1neVlQKwGzQyR)
 - [Machine Learning Summer School 2017](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9)
-- 
-
-### Wonderful Youtube Channels:
-- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
-- [A Probability Space](https://www.youtube.com/@AProbabilitySpace)
-- [Abdul Bari](https://www.youtube.com/@abdul_bari)
-- [African Institute for Mathematical Sciences (South Africa)](https://www.youtube.com/@AimsAcZa/videos)
-- [Aleksa Gordić - The AI Epiphany](https://www.youtube.com/@TheAIEpiphany)
-- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
-- [Articulated Robotics](https://www.youtube.com/@ArticulatedRobotics/videos)
-- [Carnegie Mellon University Deep Learning](https://www.youtube.com/@carnegiemellonuniversityde4339)
-- [Centre de recherches mathématiques - CRM](https://www.youtube.com/@centrederecherchesmathemat5856/videos)
-- [Centre International de Rencontres Mathématiques](https://www.youtube.com/@Cirm-mathFr)
-- [Clay Mathematics Institute](https://www.youtube.com/@claymathematicsinstitute635)
-- [CMU Database Group](https://www.youtube.com/@CMUDatabaseGroup)
-- [CMU Robotics Institute](https://www.youtube.com/@cmurobotics/playlists)
-- [Computer Science Lessons](https://www.youtube.com/@ComputerScienceLessons/videos)
-- [Computer Science and Engineering](https://www.youtube.com/@computerscienceandengineer429/playlists)
-- [ComputerVisionFoundation Videos](https://www.youtube.com/@ComputerVisionFoundation)
-- [CS50](https://www.youtube.com/@cs50/videos)
-- [CRUNCH Group: Home of Math + Machine Learning + X](https://www.youtube.com/@CrunchGroup)
-- [Erwin Schrödinger International Institute for Mathematics and Physics (ESI)](https://www.youtube.com/@ESIVienna)
-- [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
-- [Google DeepMind](https://www.youtube.com/@googledeepmind)
-- [Google for Developers](https://www.youtube.com/@GoogleDevelopers/videos)
-- [Google TechTalks](https://www.youtube.com/@GoogleTechTalks/playlists)
-- [Graduate Mathematics](https://www.youtube.com/@GraduateMathematics/playlists)
-- [Harvard CMSA](https://www.youtube.com/@harvardcmsa7486/playlists)
-- [Harvard Data Science Initiative](https://www.youtube.com/@harvarddatascienceinitiati3320/videos)
-- [Harvard Mathematics Department](https://www.youtube.com/@HarvardMath)
-- [HarveyMuddCollegeEDU](https://www.youtube.com/@HarveyMuddCollegeEDU/videos)
-- [HuggingFace](https://www.youtube.com/@HuggingFace/videos)
-- [IAS | PCMI Park City Mathematics Institute](https://www.youtube.com/@iaspcmi/videos)
-- [IAMP Seminars](https://www.youtube.com/@iamp_seminars)
-- [IBM Technology](https://www.youtube.com/@IBMTechnology/videos)
-- [ICTP Mathematics](https://www.youtube.com/@ictpmathematics6835)
-- [ICTP Postgraduate Diploma Programme](https://www.youtube.com/@ictppostgraduatediplomapro1224)
-- [ICTP Science, Technology and Innovation](https://www.youtube.com/@ictpsciencetechnologyandin4327)
-- [ICTP-SAIFR](https://www.youtube.com/@SAIFRResearch)
-- [IIT Gandhinagar](https://www.youtube.com/@IITGNOfficial)
-- [IIT KANPUR-NPTEL](https://www.youtube.com/@IITKanpurNPTEL)
-- [IIT Madras - B.S. Degree Programme](https://www.youtube.com/@IITMadrasBSDegreeProgramme)
-- [IIT Roorkee July 2018](https://www.youtube.com/@IITRoorkeeJuly)
-- [Institut d'Astrophysique de Paris](https://www.youtube.com/@InstitutdAstrophysiquedeParis)
-- [Inst. for Quantitative & Computational Biosciences](https://www.youtube.com/@inst.forquantitativecomput8733)
-- [Institut des Hautes Etudes Scientifiques (IHES)](https://www.youtube.com/@IhesFr)
-- [Institut Fourier](https://www.youtube.com/@institutfourier)
-- [Institut Henri Poincaré](https://www.youtube.com/@InstitutHenriPoincaré)
-- [Institut Jean Le Rond d'Alembert](https://www.youtube.com/@DAlembert-SU-CNRS)
-- [Institute for Advanced Study](https://www.youtube.com/@videosfromIAS)
-- [Institute for Geometry and Physics](https://www.youtube.com/@InstituteforGeometryandPhysics)
-- [Institute for Mathematical Sciences](https://www.youtube.com/@instituteformathematicalsc1747)
-- [Institute for Pure & Applied Mathematics (IPAM)](https://www.youtube.com/@IPAMUCLA/playlists)
-- [Institute for Quantum Computing](https://www.youtube.com/@QuantumIQC)
-- [Institute of Physics](https://www.youtube.com/@InstituteofPhysics)
-- [Instituto de Matemática Pura e Aplicada](https://www.youtube.com/@impabr)
-- [Int'l Centre for Theoretical Physics](https://www.youtube.com/@ICTPchannel)
-- [International Centre for Theoretical Sciences](https://www.youtube.com/@ICTStalks)
 - 
